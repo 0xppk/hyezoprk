@@ -5,8 +5,8 @@
   ❄️ Hyezoprk ❄️
   ```
   <div align="left">
-    <samp><i>💻 Full time <b>Frontend Developer</b>.</i></samp><br/>
-    <samp><i>📚 Keep learning <b>JS, React & NestJS</b>.</i></samp><br/>
-    <samp><i>❄️ <b>macOS</b> user.</i></samp>
+    <samp><i>💻 Full time <b>Frontend Developer</b></i></samp><br/>
+    <samp><i>📚 Keep learning <b>JS, React & NestJS</b></i></samp><br/>
+    <samp><i>❄️ <b>macOS</b> user</i></samp>
   </div>
 </div>
